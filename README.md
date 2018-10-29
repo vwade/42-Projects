@@ -23,8 +23,8 @@ Additonal functions
 ```
 Bonus
 	typedef	struct	s_list{}
-				t_list;
+			t_list;
 Bonus functions
 	ft_lstnew	ft_lstdelone	ft_lstdel	
-	ft_lstadd	ft_lstiter		ft_lstmap
+	ft_lstadd	ft_lstiter	ft_lstmap
 ```
