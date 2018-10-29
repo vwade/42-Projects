@@ -1,7 +1,7 @@
 #	42 Libft
 This project recreates many of the **libc** standard functions written in **C**.
 
-##	Libft — Functions
+##	Libft - Functions
 Required functions
 ```
 Libc functions
@@ -32,4 +32,10 @@ Extra functions
 ```
 TODO	——
 	ft_prtptr(void *)	—	This will print the address of a pointer passed into it. (putptr)
+	ft_prtarray(void *, size_t n)	—	This will print each element of n size array. (prtarr)
+	ft_longdiv(int a, int b, size_t n)	—	Divide integer a by integer b (a/b) using long division. Returns string of n iterations.
+	ft_longadd(int a, int b, size_t n)	—	Add integers (a + b) using long addition method.
+	ft_longsub(int a, int b, size_t n)	—	Subtract integers (a + b) using long addition method.
+	ft_longmul(int a, int b, size_t n)	—	Multiply integers (a + b) using long addition method.
+
 ```
