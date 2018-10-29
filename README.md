@@ -1,5 +1,5 @@
 #	42 Libft
-This project recreates many of the **libc** standard functions, written in **C**.
+This project recreates many of the **libc** standard functions written in **C**.
 
 ##	Libft — Functions
 Required functions
