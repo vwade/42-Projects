@@ -30,4 +30,5 @@ Bonus functions
 ```
 Extra functions
 ```
+	ft_prtptr(void *)	—	This will print the address of a pointer passed into it. (putptr)
 ```
