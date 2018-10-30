@@ -25,7 +25,7 @@ Bonus
 	typedef	struct	s_list{}
 			t_list;
 Bonus functions
-	ft_lstnew	ft_lstdelone	ft_lstdel	
+	ft_lstnew	ft_lstdelone	ft_lstdel
 	ft_lstadd	ft_lstiter	ft_lstmap
 ```
 Extra functions
@@ -41,5 +41,6 @@ TODO	——
 	ft_longadd(int a, int b, size_t n)	—	Add integers (a + b) using long method.
 	ft_longsub(int a, int b, size_t n)	—	Subtract integers (a + b) using long method.
 	ft_longmul(int a, int b, size_t n)	—	Multiply integers (a + b) using long method.
+	ft_verify	—	Checks if two sets of data are the same. Useful for detecting defects in memory.
 
 ```
