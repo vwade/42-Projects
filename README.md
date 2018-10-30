@@ -32,7 +32,8 @@ Extra functions
 ```
 Extended Standard C fucntions
 	<ctype.h>
-	ft_iscntrl	ft_isgraph	ft_ispunct	ft_isspace	ft_isxdigit
+	ft_isblank	ft_iscntrl	ft_isgraph	ft_ispunct	ft_isspace
+	ft_isxdigit	ft_islower	ft_isupper
 TODO	——
 	ft_prtptr(void *)	—	This will print the address of a pointer passed into it. (putptr)
 	ft_prtarray(void *, size_t n)	—	This will print each element of n size array. (prtarr)
